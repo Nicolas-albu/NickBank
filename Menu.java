@@ -4,10 +4,6 @@ import java.util.Random;
 import java.util.Scanner;
 
 public class Menu{
-
-    public static void opcoes(){
-        
-    }
     public static void main(String[] args) {
         Scanner read = new Scanner(System.in);
 
